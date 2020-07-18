@@ -18,4 +18,4 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Deployed Application
 
-https://peaceful-stream-92276.herokuapp.com/
+https://samdotkim-budgettracker.herokuapp.com/
